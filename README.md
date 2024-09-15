@@ -1,6 +1,4 @@
-# Abdul
-
-<div><img alt="cover" src="IMG_5956.JPEG"/></div>
+<div><img alt="cover" src="IMG_59556.JPEG"/></div>
 
 **`Full-Stack Developer`**
 
