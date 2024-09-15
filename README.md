@@ -14,6 +14,9 @@ Ciao, sono Abd Elrahman Mohamed e sono un Full-Stack Developer Junior. Abito a B
 </a>
 </div>
 
+<br><br>
+
+
 ### Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -26,8 +29,6 @@ Ciao, sono Abd Elrahman Mohamed e sono un Full-Stack Developer Junior. Abito a B
 
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
-<br><br>
-
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
 <img align="left" alt="Material-UI" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
@@ -37,8 +38,6 @@ Ciao, sono Abd Elrahman Mohamed e sono un Full-Stack Developer Junior. Abito a B
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 
 <img align="left" alt="Mongoose" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
-
-<br><br>
 
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
