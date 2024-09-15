@@ -1,6 +1,6 @@
-<div><img alt="cover" src="IMG_59556.JPEG"/></div>
-
 **`Full-Stack Developer`**
+
+<div><img alt="cover" src="IMG_59556.JPEG"/></div>
 
 Ciao, sono Abd Elrahman Mohamed e sono un Full-Stack Developer Junior. Abito a Borgomanero, in provincia di Novara. Attualmente sto cercando lavoro.
 
