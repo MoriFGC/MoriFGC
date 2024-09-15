@@ -10,7 +10,7 @@ Ciao, sono Abd Elrahman Mohamed e sono un Full-Stack Developer Junior. Abito a B
 
 <a href="https://www.linkedin.com/in/abd-elrahman-mohamed-44278a30b/"><img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /></a>
 
-#
+
 
 ### Languages and Tools
 
